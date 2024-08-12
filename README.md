@@ -21,7 +21,7 @@ Her Vogue is an eCommerce application designed to showcase products from women-o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/her-vogue.git
+   git clone https://github.com/Tanisboxed/her-vogue.git
 
 ## Tech Stack
 - **React Native**
