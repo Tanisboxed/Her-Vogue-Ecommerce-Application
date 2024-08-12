@@ -1,4 +1,4 @@
-# Her-Vogue-Ecommerce-Application
+# HerVogue-Ecommerce-Application
 Her Vogue is an eCommerce application designed to showcase products from women-owned businesses. Our mission is to empower female entrepreneurs by providing a platform for their unique products. With an intuitive swipe interface and personalized feed, shopping has never been this engaging or supportive.
 
 ## User Interface Current Design:  https://www.behance.net/gallery/205398751/HerVogue
