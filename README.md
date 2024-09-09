@@ -27,7 +27,10 @@ Her Vogue is an eCommerce application designed to showcase products from women-o
 - **React Native**
 - **Node.js**
 - **Express.js**
-- **Firebase**
+- **MongoDB**
+- **REST API**
+- **OAuth2**
+- **AWS**
 
 ## Contributing
 We welcome contributions from the community. 
